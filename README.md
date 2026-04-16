@@ -4,7 +4,7 @@ This project simulates an enterprise IT environment using Windows Server 2012 R2
 
 
 ## Features
-- Active Directory with organizational units and user/group management  
+- Active Directory with organizational units, user and group management  
 - DNS and DHCP configuration  
 - File server with shared folders and permissions  
 - Printer service setup  
